@@ -1,0 +1,12 @@
+{
+  "issuer": "https://wlcg.cloud.cnaf.infn.it/",
+  "client_id": "REPLACE",
+  "client_secret": "REPLACE",
+  "scope": "openid profile offline_access",
+  "access_token": "",
+  "refresh_token": "",
+  "expires_at": 0,
+  "refresh_expires_at": 0,
+  "token_endpoint": "",
+  "device_authorization_endpoint": ""
+}
